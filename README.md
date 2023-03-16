@@ -1,2 +1,2 @@
-# CPSC559MIdterm
+# CPSC559 Midterm
 Advanced Blockchain Midterm Project
